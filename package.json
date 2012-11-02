@@ -1,0 +1,27 @@
+{
+    "name": "one-to-one",
+    "version": "0.1.0",
+    "dependencies": {
+	"url": "0.7.9",
+	"moment": "1.6.2",
+	"express": "latest",
+	"node-uuid": "latest",
+	"async": "0.1.22",
+	"querystring": "latest",
+	"request": "latest",
+	"events": "latest",
+	"memorystream": "latest",
+	"validator": "latest",
+	"xmlbuilder": "latest",
+	"xml2js": "latest",
+	"pg": "0.7.2",
+	"bcrypt": "latest",
+	"hipmob": "latest",
+	"mailgun": "latest",
+	"mustache": "latest"
+    },
+    "engines": {
+	"node": "0.8.x",
+	"npm": "1.1.x"
+    }
+}
